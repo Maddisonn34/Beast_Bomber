@@ -9,7 +9,7 @@
 ║  When posting this code on other resources, please indicate the author!         ║
 ║                                                                                 ║
 ║                               All rights reserved.                              ║
-║                            Copyright (C) 2023 crut0i                            ║
+║                            Copyright (C) 2024 un1ucm                            ║
 ║                                                                                 ║
 ╚═════════════════════════════════════════════════════════════════════════════════╝
 """
@@ -57,14 +57,14 @@ class BeastBomber:
         Спасибо за использование Beast bomber!
 Автор будет благодарен, если Вы поставите звезду на GitHub:
         https://github.com/crut0i/Beast_Bomber
-              Copyright (C) 2023 crut0i """
+              Copyright (C) 2024 un1ucm"""
             else:
                 text = """
             Thanks for using Beast bomber!
 The author would appreciate it if you would put a star on 
               this repository on GitHub:
         https://github.com/crut0i/Beast_Bomber
-              Copyright (C) 2023 crut0i """
+              Copyright (C) 2024 un1ucm"""
 
             print(fade.purplepink(text))
             os.abort()
