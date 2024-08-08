@@ -9,7 +9,7 @@
 ║  When posting this code on other resources, please indicate the author!         ║
 ║                                                                                 ║
 ║                               All rights reserved.                              ║
-║                            Copyright (C) 2023 crut0i                            ║
+║                            Copyright (C) 2024 un1ucm                            ║
 ║                                                                                 ║
 ╚═════════════════════════════════════════════════════════════════════════════════╝
 """
